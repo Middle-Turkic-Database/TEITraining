@@ -1,0 +1,3 @@
+[submodule "chagatai"]
+	path = chagatai
+	url = https://github.com/Middle-Turkic-Database/chagatai
